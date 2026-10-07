@@ -2,6 +2,8 @@
 
 One file. Buy once, own forever.
 
+**Live:** https://justjude34-ship-it.github.io/aureole/
+
 Open `index.html` in any browser. No install, no account, no server. Works offline after the first open.
 
 ## What is inside
